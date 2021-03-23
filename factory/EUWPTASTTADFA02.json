@@ -1,0 +1,9 @@
+{
+	"name": "EUWPTASTTADFA02",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "010ad65e-220b-423b-92fb-0de81231a8b3",
+		"tenantId": "5b973f99-77df-4beb-b27d-aa0c70b8482c"
+	}
+}

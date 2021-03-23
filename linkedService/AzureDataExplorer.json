@@ -1,0 +1,16 @@
+{
+	"name": "AzureDataExplorer",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "Data Explorer as a Source",
+		"annotations": [],
+		"type": "AzureDataExplorer",
+		"typeProperties": {
+			"endpoint": "Https://EUWPTASSSPADE01.westeurope.kusto.windows.net",
+			"database": "test-test-eyp-gsa-094ceaf2-dd89-4518-ae82-e14ad500b860",
+			"tenant": "5b973f99-77df-4beb-b27d-aa0c70b8482c",
+			"servicePrincipalId": "7b3b5daf-088c-4da9-9eb6-06ed1740797a",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkVVV1BUQVNUVEFERkEwMl9iMDAwZmJlNC01NmZlLTQ2NTItOGRhNS01YzlkMDk3NjdhMWQiDQp9"
+		}
+	}
+}

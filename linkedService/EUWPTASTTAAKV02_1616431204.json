@@ -1,0 +1,11 @@
+{
+	"name": "EUWPTASTTAAKV02_1616431204",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://EUWPTASTTAAKV02.vault.azure.net/"
+		},
+		"annotations": []
+	}
+}
